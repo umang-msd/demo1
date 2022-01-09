@@ -1,7 +1,8 @@
 hello world!
-change for the bug2
-change added to log in feature umang
-change overide for WI3.
-change added to log in feature umang
-change for stash test for W15 in progress
-change for WI6 on local master to test normal.
+change1 for the bug2
+change2 added to log in feature umang
+change3 overide for WI3.
+change4 added to log in feature umang
+change5 for stash test for W15 in progress
+change6 for WI6 on local master to test normal.
+change7 by teammate on remote master for bug3.
