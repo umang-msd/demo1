@@ -4,3 +4,4 @@ change added to log in feature umang
 change overide for WI3.
 change added to log in feature umang
 change for stash test for W15 in progress
+change for WI6 on local master to test normal.
